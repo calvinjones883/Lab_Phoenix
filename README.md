@@ -1,17 +1,16 @@
-# Lab_Phoenix
 # Phoenix Project
 
-Добро пожаловать в **Phoenix Project**!
+Welcome to the **Phoenix Project**!
 
-Этот проект демонстрирует генерацию случайных цитат и историй с использованием Python. Проект создан для экспериментов с алгоритмами генерации и обработки текста.
+This project demonstrates random quote generation using Python. It serves as a test project to showcase basic algorithms and text handling.
 
-## Функционал
-- Генерация случайных цитат
-- Вывод историй на основе случайных элементов
-- Простой и понятный код для дальнейшего расширения
+## Features
+- Random quote generation
+- Simple, easy-to-read code
+- Room for future extensions
 
-## Запуск проекта
+## How to Run
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/21_Mon_RandomLab_Phoenix.git
